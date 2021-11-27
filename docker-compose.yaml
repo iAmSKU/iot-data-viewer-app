@@ -1,0 +1,13 @@
+version: '2.4'
+services:
+  iot-data-viewer-ui:
+    image: iot-data-viewer-ui:0.0.1
+    ports: 
+      - 3000:80
+    
+  iot-data-viewer-backend:
+    image: iot-data-viewer-backend:0.0.1
+    ports: 
+      - 3001:3001
+    
+
