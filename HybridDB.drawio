@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T02:57:01.562Z" agent="5.0 (Linux; Android 11; RMX3151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36" etag="XxlToI2_hlIpCHUYSQnW" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T02:58:33.255Z" agent="5.0 (Linux; Android 11; RMX3151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36" etag="D-It0k3iQ9k1eWH_cFWw" version="20.0.1" type="github">
   <diagram id="kqfq_GhooZyjZn8UFzgf" name="Page-1">
-    <mxGraphModel dx="918" dy="405" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1049" dy="463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,8 +16,11 @@
         <mxCell id="aNvbIybrVKaPpd2HHMkL-1" value="Storage Client" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
           <mxGeometry x="329" y="200" width="118" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="zYnCE8drnvi37Zd37jhH-18" value="" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="302" y="301" width="398" height="93" as="geometry" />
+        </mxCell>
         <mxCell id="zYnCE8drnvi37Zd37jhH-9" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="329" y="314" width="116" height="67" as="geometry" />
+          <mxGeometry x="441" y="314" width="153" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
